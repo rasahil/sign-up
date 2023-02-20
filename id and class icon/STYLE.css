@@ -1,0 +1,17 @@
+.hhhh{
+    text-align: center;
+}
+#rrrr{
+    text-align: center;
+    color: blue;
+    border-style: dashed ;
+    height: 200px;
+    width: 400px;
+}
+#red{
+    border-style: dashed;
+    font-family:  red;
+}
+body{
+    text-align: center;
+}
